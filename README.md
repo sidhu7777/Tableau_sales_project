@@ -24,9 +24,9 @@ tableau_sales_project/
 │── LICENSE             # License information
 ```
 
-## 📸 Dashboard Previews
+##  Dashboard Previews
 
-### 📍 Sales Overview Dashboard
+
 ![Sales Overview](https://github.com/user-attachments/assets/8b56d3d7-ff93-4f3b-adc8-5d456228d53e)
 
 
