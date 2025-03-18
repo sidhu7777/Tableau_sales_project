@@ -27,8 +27,7 @@ tableau_sales_project/
 ## 📸 Dashboard Previews
 
 ### 📍 Sales Overview Dashboard
-![Sales Overview](<img width="609" alt="Sales_dashboard" src="https://github.com/user-attachments/assets/8b56d3d7-ff93-4f3b-adc8-5d456228d53e" />
-)
+![Sales Overview](https://github.com/user-attachments/assets/8b56d3d7-ff93-4f3b-adc8-5d456228d53e)
 
 
 
